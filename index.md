@@ -8,9 +8,9 @@ title: ai-shorts-bot
 
 每兩天自動挑出 GitHub 上 48 小時內新增星星最多的 AI 開源專案，產出繁體中文直式短片並上傳到一個 YouTube 頻道。個人專案，沒有使用者、帳號或登入。
 
-- Project repository: <https://github.com/bensonlee1103vf-maker/ai-shorts-bot>
+- Source code: kept in a private repository (not publicly accessible).
 - [Privacy Policy](privacy)
-- Contact: the channel's About page on YouTube, or the repository above.
+- Contact: the channel's About page on YouTube.
 
 ## What it does
 

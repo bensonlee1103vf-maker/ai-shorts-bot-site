@@ -10,7 +10,7 @@ _Last updated: 2026-10-31_
 
 ## Who uses the client
 
-Only the owner. The client has no end users, no sign-up, no login page and no public interface. The project repository is <https://github.com/bensonlee1103vf-maker/ai-shorts-bot>.
+Only the owner. The client has no end users, no sign-up, no login page and no public interface. The source code is kept in a private repository.
 
 ## YouTube API Services
 
